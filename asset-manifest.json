@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RECIPIE-APP/recipe-app/static/css/main.3b87df64.css",
-    "main.js": "/RECIPIE-APP/recipe-app/static/js/main.7723fe95.js",
-    "static/js/787.13aee4be.chunk.js": "/RECIPIE-APP/recipe-app/static/js/787.13aee4be.chunk.js",
-    "index.html": "/RECIPIE-APP/recipe-app/index.html",
-    "main.3b87df64.css.map": "/RECIPIE-APP/recipe-app/static/css/main.3b87df64.css.map",
-    "main.7723fe95.js.map": "/RECIPIE-APP/recipe-app/static/js/main.7723fe95.js.map",
-    "787.13aee4be.chunk.js.map": "/RECIPIE-APP/recipe-app/static/js/787.13aee4be.chunk.js.map"
+    "main.css": "/Recipie-App/recipe-app/static/css/main.3b87df64.css",
+    "main.js": "/Recipie-App/recipe-app/static/js/main.907bd33c.js",
+    "static/js/787.13aee4be.chunk.js": "/Recipie-App/recipe-app/static/js/787.13aee4be.chunk.js",
+    "index.html": "/Recipie-App/recipe-app/index.html",
+    "main.3b87df64.css.map": "/Recipie-App/recipe-app/static/css/main.3b87df64.css.map",
+    "main.907bd33c.js.map": "/Recipie-App/recipe-app/static/js/main.907bd33c.js.map",
+    "787.13aee4be.chunk.js.map": "/Recipie-App/recipe-app/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b87df64.css",
-    "static/js/main.7723fe95.js"
+    "static/js/main.907bd33c.js"
   ]
 }
