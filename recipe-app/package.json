@@ -2,7 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sahithishastrula.github.io/RECIPIE-APP/recipe-app",
+  "homepage": "https://Sahithishastrula.github.io/Recipie-App/recipe-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
